@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    
+ background-color: #FFFDEE;
+}
+ul li a.font_size{
+   font-size: 15px;
+   margin-right: 20px;
+}
+.slider{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px; 
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.left_slide{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.bar{
+    height: 50px;
+    background-color: #3EAAE9;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.head_teacher{
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    padding-left: 0px;
+    
+}
+.paragraph{
+     
+}
+.my_marqu{
+    margin-top: 35px;
+    background-color: #FFFDEE;
+}
+.my_jumborton{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.heading{
+    margin-bottom: 15px;
+}
+.notice{
+    padding-top: 10px;
+    margin-top: 55px;
+}
+.my_footer{
+    background-color: black;
+}
+.footer_left{
+    
+}
+.footer_right{
+    
+}
+@media only screen and (max-width: 767px){
+    
+}
+@media only screen and (max-width: 479px){
+    [class*='col-']{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 950px) and (max-width: 1200px){
+
+    
+}
+@media only screen and (min-width: 768px) and (max-width: 949px){
+   
+}
+.logo{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.nav_bg_color{
+    background-color: #3EAAE9;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+}
+.img_icon{
+    margin-top: 25px;
+    float: right;
+    
+}
+a.icon_hover:hover, a.icon_hover:active{
+   
+}
+.bar_text{
+    margin-bottom: 5px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 8px;
+    font-weight: 900;
+    font-family: inherit;
+}
+.img_res{
+    width: 100%;
+    height: auto;
+    padding-left: 0px;
+}
+.img_gif{
+    padding-right: 0px;
+}

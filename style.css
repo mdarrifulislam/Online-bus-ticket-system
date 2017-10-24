@@ -1,0 +1,145 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body{
+	margin:0px;
+	padding:0px;
+}
+#wrap{
+	width:1000px;
+	margin:0 auto;
+	border:px solid green;
+}
+.header{
+	width:1000px;
+	height:50px;
+/*	background-color:#FF6347;*/
+                   background-position:center;
+	background-size:auto;
+                   padding-top: 11px;
+
+}
+.box{width:1000px;
+	height:400px;
+ 
+	
+}
+.main{
+	width:100%;
+	height:40px;
+	 
+    background-color:#ccc;
+	 
+	
+	 
+}
+h1{
+	text-align:center;
+	
+	color:#000;
+}
+P{
+	color:#000;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+.footer{
+	width:100%;
+	height:90px;
+ 
+	background-color:#FF8C00;
+ 
+}
+*
+{
+margin: 0;
+padding: 0;
+}
+#menu ul li{
+list-style-type: none;
+width: 164px;
+line-height:25px;
+height:46px;
+text-align:center;
+float:left;
+position:relative;
+background-color:green;
+border:1px solid white;
+border-radious:10px;
+}
+
+#menu ul li a {
+display: block;
+color: white;
+padding: 8px 0 8px 16px;
+text-decoration: none;
+
+}
+
+#menu ul ul {
+position:absolute;
+display:none;
+}
+/*#menu ul li:hover>ul {
+display:block;
+}*/
+#menu ul ul Ul {
+margin-left:120px;
+top:opx;
+}
+ 
+.searchInput{
+height: 47px;
+border: 1px solid #515151;
+font-family:Arial,sans-serif;
+font-size:18px;
+color: #515151;
+}
+
+.icons img{
+margin-right: 10px;
+}
+
+.icons a{
+cursor:pointer;
+}
+
+
+.searchBtn{
+
+margin-left: -10.7px;
+vertical-align: top;
+width: 110px;
+height: 47px;	
+font-family:Arial,sans-serif;
+font-size:20px;
+color: #fff;
+border: 1px solid #592880;
+	  
+background: -webkit-linear-gradient(#3775dd, #3455c1); 
+background: -o-linear-gradient(#3775dd, #3455c1); 
+background: -moz-linear-gradient(#3775dd, #3455c1); 
+background: linear-gradient(#3775dd, #3455c1); 
+}
+.searchInput {
+background: cyen;
+padding-right:10px; 
+}
+
+/*.searchBtn:hover {
+background: -webkit-linear-gradient(#3455c1, #3775dd); 
+background: -o-linear-gradient(#3455c1, #3775dd); 
+background: -moz-linear-gradient(#3455c1, #3775dd); 
+background: linear-gradient(#3455c1, #3775dd); 
+}*/
+
+
+
+
+
+ 
+textarea, input { outline: none; }
+ .links a{
+padding: 5px;
+}
